@@ -9,6 +9,6 @@
 		"PositiveColor"			"0 133 191 255"
 	//"NegativeColor"			""
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"wh_NumberFont20"
+		"delta_item_font"		"wh_NumberFont2_24"
 	}
 }
